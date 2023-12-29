@@ -8,8 +8,8 @@
 FlutteringSAKURA/FlutteringSAKURA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# 링크 테스트
-(https://youtu.be/lFjeE2MuIqw!) : [ Sakura 3D RTS ]  
-
+# Link TEST
+##[ Sakura 3D RTS ]  
+(https://youtu.be/lFjeE2MuIqw)
 
 
